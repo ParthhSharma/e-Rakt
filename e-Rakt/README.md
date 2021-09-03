@@ -1,2 +1,2 @@
-# Output of THA Day15
-![Output of THA Day15](output.png)
+# e-Rakt
+![index-page preview](./Assets/index.png)
