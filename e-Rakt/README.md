@@ -1,2 +1,2 @@
 # e-Rakt
-![index-page preview](index.png)
+![index-page preview](./index.png)
